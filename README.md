@@ -1,9 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kvetaq&theme=dark&show_icons=true)
 
-<div id="badges">
-  <a href="https://discord.gg/8SvTpGApXB">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FRedesignHelp%2Fcomments%2F8ptxnt%2Fimage_button_widget_for_reddit_chat_discord_and%2F&psig=AOvVaw0iHObj9lLKw30ajtp56R3D&ust=1679503089636000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi6odq67f0CFQAAAAAdAAAAABAf" alt="DISCORD"/>
-  </a>
 <!--
 **Kvetaq/Kvetaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
