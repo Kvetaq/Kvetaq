@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kvetaq&theme=dark&show_icons=true)
+<center> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kvetaq&theme=dark&show_icons=true) </center>
 
 <div id="badges">
   <a href="your-linkedin-URL">
