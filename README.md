@@ -21,7 +21,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,java,lua" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,java,lua,html" /><br>
 </div>
 
 <br/>
