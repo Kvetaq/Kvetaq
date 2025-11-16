@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1>👋 czKVETAQ</h1>
-
 ---
 
 <strong>Web & Backend Developer • Game Dev • FiveM / RedM Scripter</strong><br>
