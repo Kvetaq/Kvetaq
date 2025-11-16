@@ -1,5 +1,43 @@
+<div align="center">
 
+<h1>👋 czKVETAQ</h1>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=KVETAQ+DEV" /> </h1>
- 
+<strong>Web & Backend Developer • Game Dev • FiveM / RedM Scripter</strong><br>
+I build modern applications, game systems, and backend logic with a focus on performance & quality.
+
+<br/>
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+<img src="https://skillicons.dev/icons?i=lua,js,ts" height="40" />
+
+### Web
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="40" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" height="40" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />
+
+---
+
+## 📦 What I Work On
+
+🔹 FiveM / RedM scripting (ESX / OX / custom systems)  
+🔹 Web applications using Next.js  
+🔹 REST APIs & backend logic  
+🔹 Admin panels, authentication systems, role management  
+🔹 Game UI, inventories, interaction systems, economy logic  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=react&hide_border=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&layout=compact&theme=react&hide_border=true" height="140" />
+
+---
