@@ -25,16 +25,6 @@ I build modern applications, game systems, and backend logic with a focus on per
 
 ---
 
-## 📦 What I Work On
-
-🔹 FiveM / RedM scripting (ESX / OX / custom systems)  
-🔹 Web applications using Next.js  
-🔹 REST APIs & backend logic  
-🔹 Admin panels, authentication systems, role management  
-🔹 Game UI, inventories, interaction systems, economy logic  
-
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=react&hide_border=true" height="140" />
