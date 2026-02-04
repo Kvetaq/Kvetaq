@@ -24,7 +24,7 @@ I build modern applications, game systems, and backend logic with a focus on per
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=react&hide_border=true" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOURUSERNAME&layout=compact&theme=react&hide_border=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kvetaq&show_icons=true&theme=react&hide_border=true" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kvetaq&layout=compact&theme=react&hide_border=true" height="140" />
 
 ---
