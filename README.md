@@ -1,4 +1,4 @@
-<h1 align="center">czKvetaq 👋</h1>
+<h1 align="center">Kvetaq 👋</h1>
 
 <p align="center">
 Developer focused on backend systems, game server infrastructure and web applications.
