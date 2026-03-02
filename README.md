@@ -81,7 +81,3 @@ and infrastructure running on Linux environments.
 </td>
 </tr>
 </table>
-
-<p align="center">
-<i>Focused on building reliable backend systems and server tools.</i>
-</p>
